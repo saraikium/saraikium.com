@@ -3,6 +3,8 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
+## Table of contents
+
 ## About Me
 
 Greetings! I'm Saraikium (Adnan Khan), a dedicated Full-Stack Developer with a passion for crafting seamless and innovative web solutions. My journey in the realm of technology has been fueled by a combination of JavaScript and Python wizardry, focusing on creating modern single-page applications using React, REST APIs, and NodeJS.
@@ -17,7 +19,7 @@ JavaScript, TypeScript, React, React Hooks, NodeJS, RESTful APIs, Python, Flask,
 
 ## Professional Odyssey:
 
-### MOST, Ohio, USA (September 2021 - Present)
+### MOST, Ohio, USA (Remote, September 2021 - Present)
 
 As a Tech Lead, I orchestrated the frontend architecture, mentored developers, and streamlined backend processes. Notable accomplishments include reducing backend memory consumption and enhancing API response times and crafting type-safe React components using TypeScript.
 
@@ -25,7 +27,7 @@ As a Tech Lead, I orchestrated the frontend architecture, mentored developers, a
 
 I contributed as a full-stack developer, leaving my mark on single-page web applications using React and GraphQL APIs in Python. My work with the Lola Travel team involved feature additions, bug fixes, and tech debt reduction using React, JavaScript, and Apollo-Client.
 
-### Drive Motors (Modal), California, USA (January 2020 - May 2020)
+### Drive Motors (Modal), California, USA (Remote, January 2020 - May 2020)
 
 As a full-stack engineer, I tackled bugs, improved checkout processes, and resolved cross-browser compatibility issues in React and Node. My efforts resulted in substantial cost reductions and enhanced user experiences.
 
