@@ -5,7 +5,7 @@ title: "About"
 
 ## About Me
 
-Greetings! I'm Adnan Akbar Khan, a dedicated Full-Stack Developer with a passion for crafting seamless and innovative web solutions. My journey in the realm of technology has been fueled by a combination of JavaScript and Python wizardry, focusing on creating modern single-page applications using React, REST APIs, and NodeJS.
+Greetings! I'm Saraikium (Adnan Khan), a dedicated Full-Stack Developer with a passion for crafting seamless and innovative web solutions. My journey in the realm of technology has been fueled by a combination of JavaScript and Python wizardry, focusing on creating modern single-page applications using React, REST APIs, and NodeJS.
 
 ## My Expertise:
 
@@ -13,7 +13,7 @@ As a seasoned developer, I've had the privilege of leading the charge at MOST, w
 
 ## Tech Arsenal:
 
-JavaScript, ES6+, React, React Hooks, NodeJS, RESTful APIs, Python, Flask, PostgreSQL.
+JavaScript, TypeScript, React, React Hooks, NodeJS, RESTful APIs, Python, Flask, PostgreSQL.
 
 ## Professional Odyssey:
 
