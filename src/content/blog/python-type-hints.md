@@ -1,8 +1,8 @@
 ---
 author: Saraikium
-pubDatetime: 2024-2-23
+pubDatetime: 2024-02-27
 title: Python type hints for TypeScript developers
-postSlug: thoughts-about-python
+postSlug: python-typing-for-typescript-devs
 featured: true
 draft: true
 tags:
