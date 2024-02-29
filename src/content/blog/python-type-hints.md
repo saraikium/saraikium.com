@@ -2,9 +2,9 @@
 author: Saraikium
 pubDatetime: 2023-12-04
 title: Python type hints for TypeScript developers
-postSlug: python-typing-for-typescript-devs
+postSlug: thoughts-about-python
 featured: true
-draft: false
+draft: true
 tags:
   - Python
 description: A deep dive into python type system
