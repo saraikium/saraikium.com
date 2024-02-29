@@ -1,6 +1,6 @@
 ---
 author: Saraikium
-pubDatetime: 2023-12-04
+pubDatetime: 2024-2-23
 title: Python type hints for TypeScript developers
 postSlug: thoughts-about-python
 featured: true
